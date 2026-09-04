@@ -26,4 +26,4 @@ Il est actuellement *en cours de développement*.
 ## Exemple de code
 
 ```javascript
-console.log("Bonjour !");
+console.log("Bonjour !"); 
