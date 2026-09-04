@@ -23,7 +23,7 @@ Il est actuellement *en cours de développement*.
 ## image 
 ![Un panda](https://commons.wikimedia.org/wiki/Special:Redirect/file/Panda_Berlin_Zoo_2012_img01.jpg)
 
-## Exemple de code
+## Exemple de code  
 
 ```javascript
 console.log("Bonjour !"); 
